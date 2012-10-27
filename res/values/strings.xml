@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">LocAnd</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="makereq">Make a Request</string>
+    <string name="makepost">Make a Post</string>
+    <string name="title_activity_make_req">MakeReq</string>
+    <string name="back">Back</string>
+
+</resources>
